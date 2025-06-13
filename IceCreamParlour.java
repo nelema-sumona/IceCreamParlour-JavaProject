@@ -12,7 +12,7 @@ public class IceCreamParlour {
 class IceCreamEntry {
     JFrame jf;
     JPanel jp;
-    JLabel[] flavorLabels;
+    JLabel[] flavorLabels; //FlavorLabelsVariable
     JTextField[] flavorFields;
     JLabel[] priceLabels;
     JTextField[] priceFields;
