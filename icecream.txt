@@ -1,0 +1,9 @@
+Vanilla,1
+Mango,2
+Strawberry,3
+,
+,
+Total Taka: BDT. 10
+Total Taka: BDT. 10
+Total Taka: BDT. 10
+Total Taka: BDT. 10
